@@ -97,7 +97,7 @@ body{
   margin: 0 0 var(--header-height) 0;
   font-family: var(--body-font);
   font-size: var(--normal-font-size);
-  background-color: hwb(300 64% 8% / 0.849);
+  background-color: hwb(300 94% 4% / 0.849);
   color: #05357b;
   display: flexbox;
   justify-content: center;
